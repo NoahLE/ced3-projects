@@ -1,6 +1,6 @@
 # CED3 Project Summaries
 
-This is a portfolio of projects designed, developed, and distributed by the CED3 team of developers ([Michael Nigh](https://github.com/micnigh), [Leah Frye](https://github.com/leahfrye), and [Noah Lloyd-Edelman](https://github.com/NoahLE)) from 2016-2018.
+This is a portfolio of projects designed, developed, and distributed by the CED3 team of developers from 2016-2018.
 
 Due to intellectual property rights we cannot share the source code but are able to publish summaries and screenshots here.
 
@@ -20,12 +20,12 @@ The application was built using:
 
 ## Hurricane Simulator
 
-![Screenshot here]()
+![Screenshot here](/hurricane/main-screen.png)
 
-The Hurricane Simulator is...
+The Hurricane Simulator allows emergency response personal to gain experience and confidence in making critical decisions related to preparing for and responding to hurricanes and tropical storms. 
 
 * [View screenshots of the application here](/hurricane)
-* [Go to the application]()
+* [Go to the application](https://eddy.nps.edu/hurricaneSim/simulation)
 
 The application was built using:
 
@@ -50,7 +50,7 @@ The application was built using:
 
 ![Wargaming Website homepage](/wargaming/home.png)
 
-The Wargaming Activity Hub Website is...
+The Wargaming Activity Hub Website is a centralized location for current and emerging concepts, both doctrinal and technical, against contemporary and future adversaries. Graduates are better able to anticipate who we will fight and how after designing and analyzing wargames that address real-world DoD sponsors’ biggest challenges in the NPS classroom.
 
 * [View screenshots of the application here](/wargaming)
 * [Go to the application](http://drift.nps.edu/wargaming/)
@@ -61,7 +61,7 @@ The application was built using:
 
 ## The Zefra Scenario
 
-![The Zefra Scenario homepage]()
+![The Zefra Scenario homepage](/zefra/map.png)
 
 The Zefr Scenario  is...
 
@@ -71,19 +71,6 @@ The Zefr Scenario  is...
 The application was built using:
 
 * Adobe Illustrator, JavaScript (ECMA2018), TypeScript, React, Redux, Node, Express, Docker, webpack, etc. 
-
-## 2038 Wargame
-
-![Screenshot here]()
-
-The 2038 Wargame is...
-
-* [View screenshots of the application here](/project)
-* [Go to the application]()
-
-The application was built using:
-
-* Python 3, Django, Bootstrap, Docker, etc.
 
 ## DRMI
 
@@ -97,3 +84,11 @@ The DRMI Accounting Modules are part of a free online course provided by the Nav
 The application was built using:
 
 * JavaScript (ECMA2018), Node, Express, Gulp, etc.
+
+## 2038 Wargame
+
+2038 was created to give players a visceral sense of winning or losing based on their ability to connect force development decisions with an operational energy strategy. Explore and assess possible dynamics of energy logistics in a future conflict.
+
+The application was built using:
+
+* Python 3, Django, Bootstrap, Docker, etc.
